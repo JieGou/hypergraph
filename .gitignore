@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/ResearchGeometryLibrary/.vs/RGeoLib
+/FloorPlanTools/.vs/FloorPlanTools
+/FloorPlanTools/obj/Debug
+.vs
+obj
+/ResearchGeometryLibrary/packages
+bin
